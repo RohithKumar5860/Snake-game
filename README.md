@@ -11,3 +11,4 @@
 <h3>
   The ouotput is show as fallow:-
 </h3>
+<img src = "output.png">
